@@ -1,5 +1,5 @@
-# Encrypted by Demias Syihab Aldino
-# Github- https://github.com/maskprivate1457
+# Encrypted by Arverdaa
+# Jangan Recode, Tinggal Pakai Aja
 
 aaaaaaaaaaaa = ""
 aaaaaaaaaaaa += "\x49\x79\x45\x76\x64\x58\x4e\x79\x4c\x32"
